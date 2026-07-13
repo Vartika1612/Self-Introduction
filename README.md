@@ -4,7 +4,7 @@
 💻 Interested in Web Development & UI Design  
 🚀 Passionate about building practical and user-friendly applications  
 
-## 🔧 Skills
+## 🔧  Skills
 - C++
 - Java
 - Python
