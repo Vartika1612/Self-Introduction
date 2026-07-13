@@ -10,7 +10,7 @@
 - Python
 - Flutter
 - Git & GitHub
-- AWS Basics
+- AWS  Basics
 
 ## 🎥 Self Introduction Video
 https://github.com/Vartika1612/Self-Introduction/blob/main/self_introduction.mp4
